@@ -6,5 +6,4 @@ services:
     container_name: english-app
     ports:
       - "4500:80"
-    depends_on:
-      - api
+
